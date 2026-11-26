@@ -1,2 +1,7 @@
-# u-eager-stork-81-9647-what-the-elevator-would-say-90844958-entry
-Entry for the make.fun bounty What the Elevator Would Say
+# What the Elevator Would Say — make.fun entry
+
+[![make.fun · u-eager-stork-81-9647-what-the-elevator-would-say-90844958](https://make.fun/badge/u-eager-stork-81-9647-what-the-elevator-would-say-90844958.svg)](https://make.fun/bounty/u-eager-stork-81-9647-what-the-elevator-would-say-90844958?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-what-the-elevator-would-say-90844958)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/rezimtirani/u-eager-stork-81-9647-what-the-elevator-would-say-90844958-entry/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-what-the-elevator-would-say-90844958)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/rezimtirani/u-eager-stork-81-9647-what-the-elevator-would-say-90844958-entry/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-what-the-elevator-would-say-90844958?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-what-the-elevator-would-say-90844958)
+
+An elevator finally gets a word in: it rides up and down all day, and the only thanks it ever hears come from passengers who pressed the wrong button first. `main.py` writes that single line to `entry.txt` using only the Python standard library.
